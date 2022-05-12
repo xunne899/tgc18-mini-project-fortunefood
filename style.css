@@ -1,0 +1,70 @@
+
+
+html,body{
+    overflow-x: hidden !important;
+}
+
+    @media screen and (min-width:768px) {
+      #wrapper {
+        position: relative;
+      }
+
+          
+/*     max-height: 668px;
+    min-width: auto; */
+    .carousel-item img{
+      
+        background-image: cover;
+        height: 420px;
+    }
+
+      
+
+      .engage {
+        min-height: 420px;
+      }
+
+      #cta {
+        position: absolute;
+        top: 5%;
+        right: 5%;
+        opacity: 0.95;
+      }
+    }
+
+
+
+
+.nav-link{
+    color:grey;
+  }  
+
+/* nav-link:hover{
+
+} */
+
+.products h5{
+
+  font-size: 1.2rem;
+  
+}
+
+.display-5{
+
+  font-size: 1.8rem;
+  
+}
+
+
+.recipename{
+  font-size: 1.2rem;
+}
+
+.nav-link{
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+#sub_signup{
+  font-size : 0.8rem;
+}
