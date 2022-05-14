@@ -16,7 +16,7 @@
 
 ## 1. Summary
 * Fortunefood webpage is not fully mobile responsive
-* Seeing weppage not working really well.It sparks my interest to do my part to revamp it's website to better serve the community 
+* It sparks my interest to recreate it's website to serve the community better 
 
 ## 2. UI/UX
 
@@ -41,6 +41,7 @@ The purpose of this mini project is to recreate a new layout of fortunefood.sg. 
   Nav bar: fortune food logo<br>
   Nav bar: contains tab -  about us, products, recipes, contact us (able to link to respective page when click)<br>
   Nav bar:   about us, products, recipes, contact us(color will change to black when mouse hover over tab)<br>
+   Nav bar: Join Us(Upon clicking it will bring users to the membership page)<br>
 
 * Carousel: 5 images - tofu, udon, noodles,all products of fortunefood, factory manufacturing picture<br>
 
@@ -55,7 +56,7 @@ The purpose of this mini project is to recreate a new layout of fortunefood.sg. 
 * Contact us form: email, names, comments, submit button <br>
   
 
-* Location: address details with map<br>
+* Address: address details with map<br>
 ![Web Structure](./images/miniproj_struct.jpg)
 
 ### 2.4 Skeleton
@@ -93,7 +94,7 @@ Footer at the bottom page with copyright and font aswesome logo.<br>
 ## 3. Features<br>
 
 ### Navigation Bar<br>
-  *  About us, Products, Recipes, Contact us(click tab to link to respective page)
+  *  About us, Products, Recipes, Contact us, Join Us(click tab to link to respective page)
 ### Subscription Form <br>
   * Users may key in their email to the email box to get food updates. 
 
@@ -135,6 +136,7 @@ Function of the  webpage allows user's to search for a variety of food and compa
 |Navigation Bar  |Products Tab                   |Link to Products section, when hover over tab color will change                     |
 |Navigation Bar  |Recipes Tab                    |Link to Recipe section, when hover over tab color will change                       |
 |Navigation Bar  |Contact Us Tab                 |Link to Contact Us section, when hover over tab color will change                   |
+|Navigation Bar  |Join Us Tab                 |Link to Membership signup section, when hover over tab color will change                   |
 |Navigation Bar  |Mobile Responsiveness          |Adjust accordingly to screen size,links in navbar will be hidden in nav dropdown button|
 |Carousel        |Images                         |Able to auto slide, change to next image                                             |
 |Carousel        |Mobile Responsiveness          |Autoslide function still works in different screen size                      |
@@ -143,24 +145,17 @@ Function of the  webpage allows user's to search for a variety of food and compa
 |Content         |Poducts                        |Able to link to the destinated webpage for information       |
 |Content         |Recipes                        |Able to link to the destinated webpage for information       |
 |Content         |Contact us                     |Forms are able to let user input info          |
-|Content         |Location                       |Able to show address under google map                                                 |
+|Content         |Address                       |Able to show address under google map                                                 |
 |Content         |Mobile Responsiveness          |Able to view in different screen size                                              |
 |Footer          |Mobile Responsiveness          |Able to view in different screen size                                         |
 
 
 ## 7. Deployment 
- Host by using Netlify.
+
  Host by using Replit.
 
 **Steps for deployment:**
-* Edits were added, commited, and pushed to GitHub via Gitpod.
-* Access https://www.netlify.com/ and log in via a Github account.
-* Next, click on "New site from Git" button
-* Select "GitHub" for continuous deployment
-* Select authorize access to GitHub should a pop-up appear
-* Select the repository that you want to deploy
-* Click on "Deploy site" button to get a link for the deployed site
-
+* Run index.html
 
 
 ## 8. Live link
