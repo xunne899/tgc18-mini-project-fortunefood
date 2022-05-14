@@ -18,7 +18,7 @@ html,body{
   border-radius: 24px;
   padding: 6px 30px;
   font-size: 14px;
-  
+  background-color:#E51B24
 }
 
 
@@ -109,16 +109,21 @@ html,body{
   font-size : 0.8rem;
 }
 
+
 .footer{
- 
   bottom: 0;
   
-
 }
 
 .submitted{
   border-radius: 24px;
   padding: 6px 30px;
   font-size: 14px;
+  background-color:#E51B24;
   
+}
+
+
+.subform{
+  min-height : 500px;
 }
