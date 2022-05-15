@@ -81,8 +81,8 @@ Footer at the bottom page with copyright and font aswesome logo.<br>
 
 #### 2.5.b Typography<br>
 
-* Font Color :grey/ black/ red to blend with the background color
-* Font Family: Normal
+* Font Color :grey/ black/ red/ white to blend with the background color
+* Font Family: Normal(Default)
 * Font Size : 0.6 - 2 rem, h1,h2,h6 to match with background settings
 
 
@@ -102,6 +102,7 @@ Footer at the bottom page with copyright and font aswesome logo.<br>
   *  Under the description there is a red click here to link to fortunefood website for more information
 ### Products<br>
   * Under the product description there is a red click here to link to fortunefood website for more information
+  * Click on the product names for product description
 ### Recipes<br> 
 * Click on each dishes picture or name to link to the recipe 
 ### Contact us<br>
@@ -114,7 +115,7 @@ Footer at the bottom page with copyright and font aswesome logo.<br>
 As a user i would like to know the various products and venue of where to buy fortunefood products 
 
 ### 4.1 Acceptance criteria
-Function of the  webpage allows user's to search for a variety of food and companies location.
+Function of the  webpage allows user's to search for a variety of food and company location.
 
 
 ## 5. Technologies Used
@@ -142,7 +143,8 @@ Function of the  webpage allows user's to search for a variety of food and compa
 |Carousel        |Mobile Responsiveness          |Autoslide function still works in different screen size                      |
 |Content         |Subscription form              |Able to enable user input                                                           |
 |Content         |About Us                       |Able to link to the destinated webpage for information       |
-|Content         |Poducts                        |Able to link to the destinated webpage for information       |
+|Content         |Products                       |Able to link to the destinated webpage for information       |
+|Content         |Products                       |Product names able to show description upon clicking    |
 |Content         |Recipes                        |Able to link to the destinated webpage for information       |
 |Content         |Contact us                     |Forms are able to let user input info          |
 |Content         |Address                       |Able to show address under google map                                                 |
