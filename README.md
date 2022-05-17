@@ -9,7 +9,7 @@
 7. Deployment
 8. Live Link
 9. Credits and Acknowledgement
-
+    
 # Title : Mini Project - FortuneFood
 
 ![Web_view](./images/miniprojview.jpg)
@@ -151,17 +151,28 @@ Function of the  webpage allows user's to search for a variety of food and compa
 |Content         |Mobile Responsiveness          |Able to view in different screen size                                              |
 |Footer          |Mobile Responsiveness          |Able to view in different screen size                                         |
 
-
 ## 7. Deployment 
 
  Host by using Replit.
+ Host by using Github
 
-**Steps for deployment:**
+**Replit - Steps for deployment:**
 * Run index.html
+
+**Github - Steps for deployment:**
+* Log in to Github
+* Go to repository
+* Click on setting
+* Go pages
+* Change source to main
+* Save changes
+* Wait for github to generate live link address
 
 
 ## 8. Live link
 https://fortunefood.xun89.repl.co
+https://xunne899.github.io/tgc18-mini-project-fortunefood/
+
 
 ## 9. Credits and Acknowledgement
 Credits to:
